@@ -1,3 +1,13 @@
+## 0.4.0 (2024-08-09)
+
+### Feat
+
+- add commitizen ci
+
+### Fix
+
+- fix typo token
+
 ## 0.3.1 (2024-08-09)
 
 ### Refactor
